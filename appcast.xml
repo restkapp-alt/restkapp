@@ -4,11 +4,11 @@
         <title>Restk</title>
         <item>
             <title>1.0.0.0</title>
-            <pubDate>Wed, 03 Dec 2025 17:23:00 +0530</pubDate>
+            <pubDate>Wed, 03 Dec 2025 17:48:16 +0530</pubDate>
             <sparkle:version>10000</sparkle:version>
             <sparkle:shortVersionString>1.0.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.0/Restk-1.0.0.0.dmg" length="30923022" type="application/octet-stream" sparkle:edSignature="CqIgDNHviMeZpGfXjo8cVu/sXI4mUOyS42p3rfwhdr7LuJFWGnfMFbPh6EoO+zZ2+byL25pcdkSpYYrQt1HWDw=="/>
+            <enclosure url="https://restkapp-alt.github.io/restkapp/Restk-1.0.0.0.dmg" length="30922881" type="application/octet-stream" sparkle:edSignature="r1X6AdM1y3rCKy0an2IxWXvIjGOj1eVeXfG9iiczAwUkBX2SNnZowa970VvpdMHKdgAuYlKqJKjP6DEorkemAg=="/>
         </item>
     </channel>
 </rss>
