@@ -3,12 +3,23 @@
     <channel>
         <title>Restk</title>
         <item>
+            <title>1.0.0.2</title>
+            <pubDate>Fri, 02 Jan 2026 23:47:18 +0530</pubDate>
+            <sparkle:version>10002</sparkle:version>
+            <sparkle:shortVersionString>1.0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.2/Restk-1.0.0.2.dmg" length="41305429" type="application/octet-stream" sparkle:edSignature="3hvMYHvKpTkKCtRvOuIpZK8MqMHseIynmJfOM9fXigyB5sbt6SWsi/7WmcLixgheEaiC0Keh/xf5o58EI8crCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.2/Restk10002-10000.delta" sparkle:deltaFrom="10000" length="27032486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Kow0WlL0cjrLv6roZx92/RwMI2i69jWPoLOXn0ekIBVK5nn2ir5I5wF8zIx0dLQVRpYdMpdJJDq8s7Jm582EAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0.0</title>
-            <pubDate>Wed, 03 Dec 2025 17:48:16 +0530</pubDate>
+            <pubDate>Fri, 02 Jan 2026 23:47:18 +0530</pubDate>
             <sparkle:version>10000</sparkle:version>
             <sparkle:shortVersionString>1.0.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://restkapp-alt.github.io/restkapp/Restk-1.0.0.0.dmg" length="30922881" type="application/octet-stream" sparkle:edSignature="r1X6AdM1y3rCKy0an2IxWXvIjGOj1eVeXfG9iiczAwUkBX2SNnZowa970VvpdMHKdgAuYlKqJKjP6DEorkemAg=="/>
+            <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.0/Restk-1.0.0.0.dmg" length="30922881" type="application/octet-stream" sparkle:edSignature="r1X6AdM1y3rCKy0an2IxWXvIjGOj1eVeXfG9iiczAwUkBX2SNnZowa970VvpdMHKdgAuYlKqJKjP6DEorkemAg=="/>
         </item>
     </channel>
 </rss>
