@@ -3,35 +3,35 @@
     <channel>
         <title>Restk</title>
         <item>
+            <title>1.0.0.26</title>
+            <pubDate>Fri, 30 Jan 2026 17:12:16 +0530</pubDate>
+            <sparkle:version>10026</sparkle:version>
+            <sparkle:shortVersionString>1.0.0.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.26/Restk-1.0.0.26.dmg" length="50110704" type="application/octet-stream" sparkle:edSignature="/FlWI2mec0vh2+/zpllyQaMjbVWWRveqUu1O9F9OVUXri1zg4P7XRiGGU0WPeXFOEbG7c6m7zn2k6slXeuCUAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.26/Restk10026-10025.delta" sparkle:deltaFrom="10025" length="6178654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OnuD+21QE5f2G1Piymi/w/J82una4+r4LbPChIgwZpv7194ojVohl4+Ghwg9D8nXGOWtQm8VzSfmC1NBt+gLBg=="/>
+                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.26/Restk10026-10024.delta" sparkle:deltaFrom="10024" length="6172062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T4dIyGWW5jEla17ajCVyqyVST96Bpbu1vxUaBihAXzSYXEVoJUf2iU8ZymKZ7zImMVYxsDyz8ueNSjvdpQH2Dw=="/>
+                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.26/Restk10026-10023.delta" sparkle:deltaFrom="10023" length="6212394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sCM7cZq+YIqJV9T0TOo2IHjO9x0GqR6TBrMng4bBnCImj+69tQX5TN86h2XPZsw6Z+quKZSaapXXKUu+rVJzAQ=="/>
+                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.26/Restk10026-10022.delta" sparkle:deltaFrom="10022" length="7134386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VxQP+JX2eSFh9nJz5coRnYdCMXJxHz+whJ1NVRGDWojETh1WfGhJJPaGutApzl++Xb5AtTmRLJgw37cOSSUjAg=="/>
+                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.26/Restk10026-10021.delta" sparkle:deltaFrom="10021" length="12727090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BS5O8MrfWBZ3UfmV5nRc2RtqhaLcsZj8fN7/X2P+3TNhO1WmHK2SqrUtCOhkvLGm9O4rhDAv5wZExQAfi3qGCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0.25</title>
-            <pubDate>Thu, 29 Jan 2026 02:49:08 +0530</pubDate>
+            <pubDate>Fri, 30 Jan 2026 17:12:15 +0530</pubDate>
             <sparkle:version>10025</sparkle:version>
             <sparkle:shortVersionString>1.0.0.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.25/Restk-1.0.0.25.dmg" length="49848403" type="application/octet-stream" sparkle:edSignature="Whn66vs1WMBUPHWQ0BhOIW3H4GJbhuJbdAmwq9iGEyaOG42Zvc1xlXN/Z4NbQSQLZm8nK4O0tS6fqG+nOI5JAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.25/Restk10025-10024.delta" sparkle:deltaFrom="10024" length="2813650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cpmJVEIUBqj2TvyonVfdBoH4OTHZirOTly53B5r8hcO4tRo/CSMzKbuO/jaFYpSUENszpNCfx1vi3Pt4/GQBBA=="/>
-                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.25/Restk10025-10023.delta" sparkle:deltaFrom="10023" length="3853158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="37ieAi81WNP53BZmegVHU9qxncKwTFLwGMh4KpUmEOkjdmNDYMfOa1kLssBw1BVoRtrbA6E2PTtXimBhlHLSDA=="/>
-                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.25/Restk10025-10022.delta" sparkle:deltaFrom="10022" length="6305290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w/xnlCTd2Zm6HKytmADn9Z/vHXRXcb8FmQgTtReeGrAUvPIzU5zW6YY+n9jip/T6RjD0YKqNADGloWx51dYDBA=="/>
-                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.25/Restk10025-10021.delta" sparkle:deltaFrom="10021" length="12204158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7UFxOC5J/XGgKxS7KjZMG8R8PQLhBXCOXxlJN2NRXCStPGntUHlzSTBA/vK2sbFRnq+yWLsI46QwkWrtnOQJCA=="/>
-                <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.25/Restk10025-10020.delta" sparkle:deltaFrom="10020" length="12748894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I/ghA194oqesPLQElX20lhpN4RhgoEei/I4lLpkHv0ZEz0fu075P6K+RLvYGHtfxRVkBjrecmgXVd2Xc1B0JAg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.0.24</title>
-            <pubDate>Thu, 29 Jan 2026 02:49:08 +0530</pubDate>
+            <pubDate>Fri, 30 Jan 2026 17:12:16 +0530</pubDate>
             <sparkle:version>10024</sparkle:version>
             <sparkle:shortVersionString>1.0.0.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.24/Restk-1.0.0.24.dmg" length="49847871" type="application/octet-stream" sparkle:edSignature="ciUn8Xwr5KefJGnNl28NC9QEfW9adCbE2WGUJEd5WdzLB1k47yLoY+Dwp9DdsVCQiS7k2RYCSHMvuwmS/uWDCw=="/>
-        </item>
-        <item>
-            <title>1.0.0.23</title>
-            <pubDate>Thu, 29 Jan 2026 02:49:08 +0530</pubDate>
-            <sparkle:version>10023</sparkle:version>
-            <sparkle:shortVersionString>1.0.0.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/restkapp-alt/restkapp/releases/download/1.0.0.23/Restk-1.0.0.23.dmg" length="49846006" type="application/octet-stream" sparkle:edSignature="17qSnTOnboR0iQEW70QbJZfqXHgRS+T8g/+PDKwSq5JIjwYOQ4oO8Ku1A8yWbduMm5IA1r9Wfl9JvGxnv17DCQ=="/>
         </item>
     </channel>
 </rss>
